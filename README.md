@@ -49,7 +49,13 @@ How it Works ⚙️
 
 
 
+/n
 
+
+
+
+
+<img width="1440" height="900" alt="Screenshot 2025-09-20 at 11 29 24 am" src="https://github.com/user-attachments/assets/2b8ea6bf-3a62-4cbc-a197-42dce9f3df15" />
 
 User opens the extension and types their workflow description as a text prompt. ✍️
 
