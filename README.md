@@ -8,7 +8,9 @@ The generated workflow is returned as JSON and automatically copied to your clip
 
 You can build complex automation workflows quickly—no manual drag-and-drop required. 🚀
 
+
 Features ✔️
+
 
 Input a plain-text description of the automation you want. 📝
 
@@ -20,7 +22,9 @@ Supports Gmail email classification automation as an example use case. 📧
 
 Simple, user-friendly interface as a Chrome extension popup. 🖥️
 
+
 How it Works ⚙️
+
 
 User opens the extension and types their workflow description as a text prompt. ✍️
 
@@ -39,7 +43,9 @@ Labels are then applied to Gmail messages automatically.
 
 Helps keep your inbox organized with minimal manual setup. 🎯
 
+
 Installation 🛠️
+
 
 Download or clone this repository.
 
@@ -51,7 +57,9 @@ Click Load unpacked and select the extension directory.
 
 (Optional) Pin the extension to your toolbar for quick access. 📌
 
+
 Usage 🚀
+
 
 Click the extension icon.
 
