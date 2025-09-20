@@ -1,43 +1,46 @@
-n8n Workflow Generator Chrome Extension
+n8n Workflow Generator Chrome Extension 🤖
 
-OVERVIEW 
+Overview ✨
 
 This Chrome extension allows users to automatically generate complete n8n workflows from a single plain text prompt using an AI language model (from OpenRouter) and assists in automating workflow creation for any task.
 
 The generated workflow is returned as JSON and automatically copied to your clipboard for easy import into your n8n instance.
 
-You can build complex automation workflows quickly—no manual drag-and-drop required.
+You can build complex automation workflows quickly—no manual drag-and-drop required. 🚀
 
-Features
-Input a plain-text description of the automation you want.
+Features ✔️
 
-Uses a powerful LLM (OpenRouter DeepSeek R1) to generate fully functional n8n workflows.
+Input a plain-text description of the automation you want. 📝
 
-Outputs native n8n workflow JSON copied directly to your clipboard.
+Uses a powerful LLM (OpenRouter DeepSeek R1) to generate fully functional n8n workflows. 🤖
 
-Supports Gmail email classification automation as an example use case.
+Outputs native n8n workflow JSON copied directly to your clipboard. 📋
 
-Simple, user-friendly interface as a Chrome extension popup.
+Supports Gmail email classification automation as an example use case. 📧
 
-How it Works
-User opens the extension and types their workflow description as a text prompt.
+Simple, user-friendly interface as a Chrome extension popup. 🖥️
 
-The prompt is sent to OpenRouter’s AI model which returns the n8n workflow JSON.
+How it Works ⚙️
 
-The JSON is automatically copied to the clipboard.
+User opens the extension and types their workflow description as a text prompt. ✍️
 
-The user can then paste/import the workflow inside their n8n editor.
+The prompt is sent to OpenRouter’s AI model which returns the n8n workflow JSON. 💬
 
-The generated n8n workflow is fully-formed and ready to run.
+The JSON is automatically copied to the clipboard. 📋
 
-Example Use Case: Gmail Email Classification Automation
+The user can then paste/import the workflow inside their n8n editor. 📥
+
+The generated n8n workflow is fully-formed and ready to run. ▶️
+
+Example Use Case: Gmail Email Classification Automation 📬
 Your emails are automatically classified with AI into categories like Marketing, Notifications, FYI, etc.
 
 Labels are then applied to Gmail messages automatically.
 
-Helps keep your inbox organized with minimal manual setup.
+Helps keep your inbox organized with minimal manual setup. 🎯
 
-Installation
+Installation 🛠️
+
 Download or clone this repository.
 
 Open Chrome and navigate to chrome://extensions/.
@@ -46,18 +49,18 @@ Enable Developer Mode.
 
 Click Load unpacked and select the extension directory.
 
-(Optional) Pin the extension to your toolbar for quick access.
+(Optional) Pin the extension to your toolbar for quick access. 📌
 
-Usage
+Usage 🚀
+
 Click the extension icon.
 
-Enter a clear prompt describing the automation workflow you want.
+Enter a clear prompt describing the automation workflow you want. ✍️
 
 Click Generate Workflow.
 
-The workflow JSON is copied to your clipboard.
+The workflow JSON is copied to your clipboard. 📋
 
 Open your n8n editor.
 
-Click Import and paste the JSON to create the workflow instantly.
-
+Click Import and paste the JSON to create the workflow instantly. 🔄
