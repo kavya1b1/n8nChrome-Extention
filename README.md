@@ -25,12 +25,29 @@ Simple, user-friendly interface as a Chrome extension popup. 🖥️
 
 How it Works ⚙️
 
+
+
+
 <img width="395" height="387" alt="Screenshot 2025-09-20 at 11 20 29 am" src="https://github.com/user-attachments/assets/b3aedb7e-1c88-42d4-ad7a-54b7f8f4b51e" />
+
+
+
+
+
 
 <img width="1440" height="900" alt="Screenshot 2025-09-20 at 11 26 53 am" src="https://github.com/user-attachments/assets/beaff44b-2ede-4655-a4a2-730d7807c9d1" />
 
 
+
+
+
+
+
 <img width="1440" height="900" alt="Screenshot 2025-09-20 at 11 27 26 am" src="https://github.com/user-attachments/assets/2e696879-d1c2-4fdb-9df6-fd689f3790b1" />
+
+
+
+
 
 
 
