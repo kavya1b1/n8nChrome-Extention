@@ -1,5 +1,7 @@
 n8n Workflow Generator Chrome Extension
-Overview
+
+OVERVIEW 
+
 This Chrome extension allows users to automatically generate complete n8n workflows from a single plain text prompt using an AI language model (from OpenRouter) and assists in automating workflow creation for any task.
 
 The generated workflow is returned as JSON and automatically copied to your clipboard for easy import into your n8n instance.
